@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+
+		<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
+		Remove this if you use the .htaccess -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+		<title>prohelica</title>
+		<meta name="description" content="">
+		<meta name="author" content="PARVEZ">
+
+		<meta name="viewport" content="width=device-width; initial-scale=1.0">
+
+		<!-- Replace favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
+		<link rel="stylesheet" href="_assets/Bootstrap/css/bootstrap.css">
+		<link rel="stylesheet" href="custom.css">
+	</head>
+
+	<body>
+		
+		<header>
+			
+			<div class="container">
+				
+				<div class="row header-top">
+					
+					<div class="col-md-6 social text-uppercase">
+						
+					<span>	<img src="_assets/icon-logo/phone.png" /> <a href="">contact</a> </span>
+					<span>	<img src="_assets/icon-logo/message.png" /> <a href="">message</a> </span>
+					<span>	<img src="_assets/icon-logo/Facebook_logo_24.png" /> <a href="">facebook</a> </span>
+					<span>	<img src="_assets/icon-logo/twitter.png" /> <a href="">twitter</a> </span>
+						
+					
+				
+			
+						
+						
+					</div>
+					
+					<div class="col-md-3 col-md-offset-3 search text-center ">
+					<div>
+					<input type="text" placeholder="search" >  
+					<img src="_assets/icon-logo/search.png" />
+					</div>
+					
+					</div>
+				</div> 
+				<div class="row header-bottom">
+					
+					<div class=" col-md-3 logo">
+
+							<h3> <span>P</span>rohelica </h3>
+
+					</div>
+					<div class=" col-md-8 col-md-offset-1 text-uppercase">
+
+						<nav>
+						
+							<ul class="menu">
+							
+								<li class="home-menu"> <a href=""> home </a> </li>
+								<li> <a href=""> portfolio </a> </li>
+								<li> <a href=""> gallery </a> </li>
+								<li> <a href=""> blog </a> </li>
+								<li> <a href=""> contact </a> </li>
+							
+							
+							</ul>
+						
+						
+						</nav>
+
+
+
+					</div>
+					
+					
+				</div>
+				
+				
+			</div>
+			
+			
+		</header>
+		
+		<!---- SLIDER STRUCTURE --->
+		
+		<section id="slider">   
+		
+		<div class="container" >
+					<h1>PROHELICA  IT  SOLUTIONS  </h1>
+					<h3>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit 
+					auctor aliquet. lsed odio sit amet nibh vulputate cursus aa the good block sit amet mauris.  
+					
+					</h3>
+					
+					<a href="" class="btn btn-success">MORE PORTFOLIO </a>
+           </div>   
+		
+		</section>
+		
+	</body>
+</html>
